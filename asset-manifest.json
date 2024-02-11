@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ezpacio/React-pixabay-gallery-app/static/css/main.18568d93.css",
+    "main.js": "/Ezpacio/React-pixabay-gallery-app/static/js/main.779a6d01.js",
+    "index.html": "/Ezpacio/React-pixabay-gallery-app/index.html",
+    "main.18568d93.css.map": "/Ezpacio/React-pixabay-gallery-app/static/css/main.18568d93.css.map",
+    "main.779a6d01.js.map": "/Ezpacio/React-pixabay-gallery-app/static/js/main.779a6d01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18568d93.css",
+    "static/js/main.779a6d01.js"
+  ]
+}
